@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @FelixNem and I'm a Web Developer 💻
 - I’m interested in 🔬Technology, 🎮VideoGames and 🎬Movies
+- 🦾 I have good skills with React and Javascript
 - 🌱 I’m currently learning BackEnd with NodeJS and WebDesing
 
 <!---
